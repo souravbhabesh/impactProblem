@@ -35,3 +35,6 @@ If returned indices are equal to -1 -1, no conitnuous piece was found in the giv
 ## Run Example
 
 Sample run example is provided in run_sample.docx file
+
+## Impact point
+The index for impact is estimated in impact-point.pdf
