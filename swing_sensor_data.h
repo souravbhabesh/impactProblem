@@ -1,5 +1,3 @@
-//#ifdef SWINGSENSORDATA_H
-//#define SWINGSENSORDATA_H
 
 #include <map>
 #include <iostream>
@@ -23,4 +21,3 @@ class SwingSensorData {
     DataMap sensor_data; //map which stores the data from csv file
 };
 
-//#endif
