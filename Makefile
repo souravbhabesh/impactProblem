@@ -16,5 +16,5 @@ main.o : $(DEPS) main.cpp
 	$(CXX) $(CXXFLAGS) main.cpp
 
 clean:
-	\rm *.o *~ DK
+	\rm *.o DK
 
